@@ -6,7 +6,7 @@ Features
 - Basic Arithmetic Operations: Addition (+), Subtraction (-), Multiplication (*), Division (/), and Modulus (%)
 - Responsive Design: Works on all screen sizes
 - Backspace Button: Allows deleting the last entered digit
-- User Preference Storage: Dark Mode setting is saved locally
+
 
 
   How to Use
